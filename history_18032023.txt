@@ -1,0 +1,13 @@
+    1  top
+    2  git -version
+    3  apt install -y git
+    4  yum -version
+    5  sudo yum install -y git
+    6  git -version
+    7  git --version
+    8  git clone git@github.com:fer2195/Seminario.git
+    9  $ ssh-keygen -t ed25519 -C "fer2195@hotmail.com"
+   10  ssh-keygen -t ed25519 -C "fer2195@hotmail.com"
+   11  cat ~/.ssh/id_ed25519.pub
+   12  history
+   13  history > history_18032023.txt
